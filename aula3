@@ -1,0 +1,4 @@
+SELECT *
+FROM meusamigos
+WHERE onde IN ('Argentina', 'Junto do Caio')
+ORDER BY nome DESC;
